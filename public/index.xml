@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abayy</title>
+    <link>https://username.github.io/</link>
+    <description>Recent content on Abayy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>rafi05112005@gmail.com (Fathur)</managingEditor>
+    <webMaster>rafi05112005@gmail.com (Fathur)</webMaster>
+    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://username.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Foto Kegiatan PKL</title>
+      <link>https://username.github.io/post/2017-03-20-photoswipe-gallery-sample/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      <author>rafi05112005@gmail.com (Fathur)</author>
+      <guid>https://username.github.io/post/2017-03-20-photoswipe-gallery-sample/</guid>
+      <description>&lt;p&gt;Foto foto tentang kegiatan PKL, Seperti kegiatan apa saja di PKL di dokumentasikan dengan foto
+
+
+
+&lt;div class=&#34;gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+	  
+  
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://username.github.io/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://username.github.io/img/hexagon-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://username.github.io/img/hexagon-thumb.jpg&#34; alt=&#34;/img/hexagon-thumb.jpg&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://username.github.io/img/hexagon.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://username.github.io/img/sphere-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://username.github.io/img/sphere-thumb.jpg&#34; alt=&#34;Sphere&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://username.github.io/img/sphere.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Sphere&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+  
+
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://username.github.io/img/triangle-thumb.jpg&#39;);&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://username.github.io/img/triangle-thumb.jpg&#34; alt=&#34;This is a long comment about a triangle&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://username.github.io/img/triangle.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;
+          &lt;p&gt;Triangle&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+
+&lt;/div&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Materi Cisco Packet Tracer</title>
+      <link>https://username.github.io/post/2017-03-07-bigimg-sample/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      <author>rafi05112005@gmail.com (Fathur)</author>
+      <guid>https://username.github.io/post/2017-03-07-bigimg-sample/</guid>
+      <description>Suatu simulasi mengajarkan kita tentang mengconfigurasi suatu jaringan internet, cisco juga banyak mengajarkan kita untuk setting suatu server dll</description>
+    </item>
+    
+    <item>
+      <title>Rakit PC</title>
+      <link>https://username.github.io/post/2017-03-05-math-sample/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      <author>rafi05112005@gmail.com (Fathur)</author>
+      <guid>https://username.github.io/post/2017-03-05-math-sample/</guid>
+      <description>Suatu kegiatan yang mengajarkan bagaimana cara kita merakit pc dari awal sampai akhir, Kegiatan yang sangat identik dengan anak TKJ(Teknologi Komunikasi&amp;amp;Jaringan) bagi kalangan anak TKJ rakit pc adalah suatu dasar yang harus di pahami,karena banyak komponen dan kabel yang harus terpasang dengan benar.
+Komponen Komponen PC 1.Mainboard atau Motherboard. 2.Processor (CPU) 3.Harddisk (HDD) 4.RAM (Random Access Memory) 5.Optical drive (CD / DVD) 6.Floppy Disk. 7.VGA CARD (Kartu Grafis) 8.Sound Card. 9.</description>
+    </item>
+    
+    <item>
+      <title>Materi Pengertian TKJ</title>
+      <link>https://username.github.io/post/2016-03-08-code-sample/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+      <author>rafi05112005@gmail.com (Fathur)</author>
+      <guid>https://username.github.io/post/2016-03-08-code-sample/</guid>
+      <description>TKJ kepanjangan dari (Teknologi Komputer&amp;amp;Jaringan) merupakan ilmu yang mempelajari teknologi informasi dan komunikasi
+Macam Macam Jaringan Komputer 1.PAM(Personal Area Network) 2.LAN(Local Area Network) 3.MAN(Metropolitan Area Network) 4.WAN(Wide Area Network)
+Apakah kamu tau yang namanya jaringan internet?,ya jaringan internet suatu sistem atau perangkat yang saling terhubung untuk memindahkan data informasi dari perangkat satu ke perangkat lainnya yang menggunakan alamat ip</description>
+    </item>
+    
+    <item>
+      <title>Materi UBUNTU</title>
+      <link>https://username.github.io/post/2015-02-26-flake-it-till-you-make-it/</link>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
+      <author>rafi05112005@gmail.com (Fathur)</author>
+      <guid>https://username.github.io/post/2015-02-26-flake-it-till-you-make-it/</guid>
+      <description>Kami di ajarkan cara untuk membuat web dokumentasi dengan cara simulasi melalui virtual box cara melakukannya simple pertama-tama kamu harus menyiapkan CD UBUNTU dan aplikasi virtual box, lalu masuk menggunakan virtual box dan bikin kerja lembaran baru lalu setting sesuai kebutuhan, setelah itu jangan lupa masukkan cd UBUNTU lalu start programnya dan jalankan sesuai ajaran pembimbingmu</description>
+    </item>
+    
+    <item>
+      <title>Materi Kelistrikan</title>
+      <link>https://username.github.io/post/2015-02-20-test-markdown/</link>
+      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
+      <author>rafi05112005@gmail.com (Fathur)</author>
+      <guid>https://username.github.io/post/2015-02-20-test-markdown/</guid>
+      <description>Kami dijelaskan tentang kelistrikan apa itu kelistrikan dll.
+Kelistrikan adalah sifat suatu benda yang mengandung muatan positif dan negatif. Jenis arus listrik di bagi dua jenis 1.Arus Listrik AC 2.Arus Listrik DC
+Rangkaian listrik di bagi 3 macam 1.Rangkaian Seri 2.Rangkaian Pararel 3.Rangkaian Campuran</description>
+    </item>
+    
+    <item>
+      <title>Materi/Praktek PKL</title>
+      <link>https://username.github.io/post/2015-02-13-hamlet-monologue/</link>
+      <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate>
+      <author>rafi05112005@gmail.com (Fathur)</author>
+      <guid>https://username.github.io/post/2015-02-13-hamlet-monologue/</guid>
+      <description>Banyak materi yang saya dapet di tempat ini,Setelah memahami materi yang di dapatakan kita harus mempraktekannya karena akan sia sia hanya memahami luarnya namun tidak sampai dalamnya.</description>
+    </item>
+    
+    <item>
+      <title>Tentang Anak PKL Di Mako Brimob</title>
+      <link>https://username.github.io/post/2015-01-27-dear-diary/</link>
+      <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate>
+      <author>rafi05112005@gmail.com (Fathur)</author>
+      <guid>https://username.github.io/post/2015-01-27-dear-diary/</guid>
+      <description>Biasanya anak anak PKL di tempat ini mendapatkan pelajaran yang layak dan fasilitas yang sangat lengkap, mendapatkan banyak ilmu yang belum pernah di ajarkan di sekolah, lingkungan tempat yang sangat rapih serta nyaman membuat anak PKL di tempat ini beradaptasi dengan mudah, dan juga orang orang di sini sangat baik dan di siplin.</description>
+    </item>
+    
+    <item>
+      <title>Tentang Mako Brimob</title>
+      <link>https://username.github.io/post/2015-01-19-soccer/</link>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
+      <author>rafi05112005@gmail.com (Fathur)</author>
+      <guid>https://username.github.io/post/2015-01-19-soccer/</guid>
+      <description>From Wikipedia:
+Mako Brimob adalah singkatan dari Markas Komando Korps Brigade Mobil. Korps Brigade Mobil atau Korps Brimob adalah bagian integral Kepolisian Republik Indonesia (Polri).
+Dilansir dari situs Korps Brimob Polri. Korps Brimob Polri memiliki beban tugas khusus yang berkadar dan berintensitas tinggi.</description>
+    </item>
+    
+    <item>
+      <title>Tentang Kedisiplinan</title>
+      <link>https://username.github.io/post/2015-01-15-pirates/</link>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+      <author>rafi05112005@gmail.com (Fathur)</author>
+      <guid>https://username.github.io/post/2015-01-15-pirates/</guid>
+      <description>Mulai belajar di sini pukul 08.00 di harapkan untuk para siswa/siswi untuk datang tepat waktu, di karenakan pembimbing langsung mengasihkan materi/praktek yang harus di kerjakan dan juga selesai dengan tepat waktu, istirahat di tempat ini dari jam 12.00-14.00
+Jam pulang di tempat ini hari senin-jumat pukul 15.00 dan harus merapihkan kembali barang yang telah di pakai</description>
+    </item>
+    
+    <item>
+      <title>First post!</title>
+      <link>https://username.github.io/post/2015-01-04-first-post/</link>
+      <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate>
+      <author>rafi05112005@gmail.com (Fathur)</author>
+      <guid>https://username.github.io/post/2015-01-04-first-post/</guid>
+      <description>This is my first post, how exciting!</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://username.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>rafi05112005@gmail.com (Fathur)</author>
+      <guid>https://username.github.io/page/about/</guid>
+      <description>My name is Inigo Montoya. I have the following qualities:
+ I rock a great mustache I&amp;rsquo;m extremely loyal to my family  What else do you need?
+my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
+    </item>
+    
+  </channel>
+</rss>
